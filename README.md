@@ -25,6 +25,7 @@ Sigue estos pasos para comenzar:
 - Asignar o modificar la prioridad de los pacientes.
 - Ver la lista de espera de pacientes, ordenada por prioridad y hora de registro.
 - Atender al siguiente paciente, respetando el orden de prioridad.
+- Mostrar la lista de espera según prioridad
 
 ### Problemas conocidos:
 
