@@ -14,7 +14,8 @@ Sigue estos pasos para comenzar:
 3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
 4. Pega la URL del repositorio: `https://github.com/username/sistema-gestion-pacientes.git`.
 5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
-6. En la consola buscar el comando Shell
+6. En la pestaña "Configurate Repl", sección "Configure the Compile Command", pegar el siguiente comando "gcc tdas/*.c main.c -Wno-unused-result -o main" y presionar "done".
+7. Presione el boton "Run" para compilar y ejecutar la aplicación.
 
 ## Funcionalidades
 
